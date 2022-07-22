@@ -6,4 +6,8 @@ public with sharing class product {
         }
 
     }
+    public static void add(Integer b,Integer c)
+    {
+        integer a=b+c;
+    }
 }
